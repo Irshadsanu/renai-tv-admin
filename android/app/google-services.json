@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067349227546",
+    "project_id": "renai-tv-admin",
+    "storage_bucket": "renai-tv-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067349227546:android:49191238429f228bcfb9a3",
+        "android_client_info": {
+          "package_name": "com.example.renai_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067349227546-o9qcp69ok5i3ln4nr9ncem1b2h8ritbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQbnd3pbpc5Tv8cN-japFP8PpU-H2XezU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067349227546-o9qcp69ok5i3ln4nr9ncem1b2h8ritbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
